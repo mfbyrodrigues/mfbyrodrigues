@@ -35,4 +35,4 @@
   <a href="n.nandcchi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/mfbyrodrigues/mfbyrodrigues/blob/outout/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/mfbyrodrigues/mfbyrodrigues/blob/output/github-contribution-grid-snake.gif)
