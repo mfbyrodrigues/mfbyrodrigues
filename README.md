@@ -10,9 +10,7 @@
   Estou entusiasmada para continuar nessa jornada e aprender com a comunidade. Vamos crescer juntos! ☕  
 </p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Fernanda-Gif" height="30" width="40" src="https://pin.it/3M5KuFhql">
-</div>
+<img src="https://pin.it/3M5KuFhql" min-width="400px" max-width="400px" width="400px" align="center" alt="Fernanda-gif">
 
 ## Tecnologias:
 
