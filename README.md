@@ -1,6 +1,6 @@
 ## Olá, eu sou a Fernanda. O prazer é todo meu!
 
-<p style="text-align: justify">
+<p align="justify"">
   Sou iniciante na área de programação e estou aqui para aprender, crescer e compartilhar minhas conquistas com vocês. Embora ainda esteja dando meus primeiros passos, estou muito animada com tudo o que estou aprendendo e como posso aplicar esse conhecimento em projetos reais.  
   
   Neste GitHub, você vai encontrar alguns projetos simples, exercícios e desafios que estou resolvendo enquanto exploro novas linguagens e ferramentas. No momento, estou estudando C, HTML5 e CSS3. Além disso, estou cursando o segundo semestre do curso técnico integrado em Informática no IFCE Campus Cedro.  
