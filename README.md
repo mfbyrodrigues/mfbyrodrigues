@@ -10,7 +10,7 @@
   Estou entusiasmada para continuar nessa jornada e aprender com a comunidade. Vamos crescer juntos! ☕  
 </p>
 
-<img align="center" alt="Fernanda-gif" src="https://pin.it/5zXwwFT77">
+<img align="center" alt="Fernanda-gif" src="https://br.pinterest.com/pin/650418371218683404/">
 
 ## Tecnologias:
 
