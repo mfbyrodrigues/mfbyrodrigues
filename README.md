@@ -10,6 +10,7 @@
   Estou entusiasmada para continuar nessa jornada e aprender com a comunidade. Vamos crescer juntos! ☕  
 </p>
 
+![SpaceCode](https://br.pinterest.com/pin/650418371218683404.gif)
 <img align="center" alt="Fernanda-gif" src="https://br.pinterest.com/pin/650418371218683404/">
 
 ## Tecnologias:
