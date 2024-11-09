@@ -1,4 +1,4 @@
-## Olá, eu sou a Fernanda. O prazer é todo meu!
+## Olá, me chamo Fernanda. O prazer é todo meu!
 
 <p align="justify">
   Sou iniciante na área de programação e estou aqui para aprender, crescer e compartilhar minhas conquistas com vocês. Embora ainda esteja dando meus primeiros passos, estou muito animada com tudo o que estou aprendendo e como posso aplicar esse conhecimento em projetos reais.  
