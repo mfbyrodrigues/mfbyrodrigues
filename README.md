@@ -1,4 +1,4 @@
-## Olá, eu sou a Fernanda! O prazer é todo meu :)
+## Olá, eu sou a Fernanda. O prazer é todo meu!
 
 Sou iniciante na área de programação e estou aqui para aprender, crescer e compartilhar minhas conquistas com vocês. Embora ainda esteja dando meus primeiros passos, estou muito animada com tudo o que estou aprendendo e como posso aplicar esse conhecimento em projetos reais.
 
@@ -6,7 +6,7 @@ Neste GitHub, você vai encontrar alguns projetos simples, exercícios e desafio
 
 Estou aberta a dicas, sugestões e qualquer feedback que possa me ajudar a melhorar. Se você é um programador mais experiente, seu apoio será mais que bem-vindo!
 
-Estou entusiasmada para continuar essa jornada e aprender com a comunidade. Vamos crescer juntos! 👩🏻‍💻☕
+Estou entusiasmada para continuar essa jornada e aprender com a comunidade. Vamos crescer juntos! ☕
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
