@@ -1,4 +1,4 @@
-## Olá, eu sou a Fernanda. O prazer é todo meu!
+![image](https://github.com/user-attachments/assets/19544264-cd39-4217-8e0c-95e1af156671)## Olá, eu sou a Fernanda. O prazer é todo meu!
 
 <p align="justify"">
   Sou iniciante na área de programação e estou aqui para aprender, crescer e compartilhar minhas conquistas com vocês. Embora ainda esteja dando meus primeiros passos, estou muito animada com tudo o que estou aprendendo e como posso aplicar esse conhecimento em projetos reais.  
@@ -9,6 +9,9 @@
   
   Estou entusiasmada para continuar nessa jornada e aprender com a comunidade. Vamos crescer juntos! ☕  
 </p>
+
+<img src="https://i.pinimg.com/564x/b0/21/da/b021da245208fd68981e124a0dacd8e3.jpg"/>
+
 
 ## Tecnologias:
 
