@@ -10,7 +10,7 @@
   Estou entusiasmada para continuar nessa jornada e aprender com a comunidade. Vamos crescer juntos! ☕  
 </p>
 
-<img src="https://i.pinimg.com/564x/b0/21/da/b021da245208fd68981e124a0dacd8e3.jpg"/>
+<img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif"/>
 
 
 ## Tecnologias:
