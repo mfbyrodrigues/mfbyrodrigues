@@ -7,7 +7,7 @@
   
   Sugestões, dicas e quaisquer feedbacks que possam me ajudar a melhorar serão mais do que bem-vindos.
   
-  Estou entusiasmada para continuar essa jornada e aprender com a comunidade. Vamos crescer juntos! ☕  
+  Estou entusiasmada para continuar nessa jornada e aprender com a comunidade. Vamos crescer juntos! ☕  
 </p>
 
 ## Tecnologias:
