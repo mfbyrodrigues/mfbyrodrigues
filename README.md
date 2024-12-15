@@ -5,7 +5,7 @@
   
   Neste GitHub, você vai encontrar alguns projetos simples, exercícios e desafios que estou resolvendo enquanto exploro novas tecnologias. No momento, estou estudando <strong> C, </strong> <strong> HTML5 </strong> e <strong> CSS3. </strong> Além disso, estou cursando o segundo semestre do curso técnico integrado em <strong> Informática </strong> no <strong> IFCE Campus Cedro. </strong>  
   
-  Sugestões, dicas e quaisquer feedbacks que possam me ajudar a melhorar serão mais do que bem-vindos.
+  Sugestões e quaisquer feedbacks que possam me ajudar a melhorar serão mais do que bem-vindos.
   
   Estou entusiasmada para continuar nessa jornada e aprender com a comunidade. Vamos crescer juntos! ☕  
 </p>
@@ -19,7 +19,6 @@
   <img align="center" alt="Fernanda-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Fernanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fernanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Fernanda-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 ## Progresso:
