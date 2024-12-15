@@ -7,7 +7,7 @@
   
   Sugestões e quaisquer feedbacks que possam me ajudar a melhorar serão mais do que bem-vindos.
   
-  Estou entusiasmada para continuar nessa jornada e aprender com a comunidade. Vamos crescer juntos! ☕  
+  Estou contente para continuar nessa jornada e aprender com a comunidade. Vamos crescer juntos! ☕  
 </p>
 
 <img align="center" alt="Fernanda-CodeSpace" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif"/>
