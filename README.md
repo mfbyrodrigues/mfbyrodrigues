@@ -2,7 +2,7 @@
 </br>
 <a href="https://github.com/mfbyrodrigues">  
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mfbyrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
+</br>
 ##
 
 <picture align="center">
