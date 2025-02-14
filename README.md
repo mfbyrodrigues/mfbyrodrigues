@@ -1,6 +1,4 @@
-# Olá, me chamo Fernanda. O prazer é todo meu!
-
-## Tecnologias:
+## Olá, me chamo Fernanda. O prazer é todo meu!
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Fernanda-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
