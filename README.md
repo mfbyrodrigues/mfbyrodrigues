@@ -1,4 +1,4 @@
-## Olá, me chamo Fernanda. O prazer é todo meu!
+# Olá, me chamo Fernanda. O prazer é todo meu!
 
 ## Tecnologias:
 
@@ -14,12 +14,6 @@
 <a href="https://github.com/mfbyrodrigues">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mfbyrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfbyrodrigues&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
-## Contato:
-
-<div>
-<a [href="n.nandcchi@gmail.com](mailto:href=%22n.nandcchi@gmail.com)"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ##
