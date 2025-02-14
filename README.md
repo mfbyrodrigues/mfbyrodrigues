@@ -1,4 +1,4 @@
-## #Olá, me chamo Fernanda. O prazer é todo meu!
+## Olá, me chamo Fernanda. O prazer é todo meu!
 
 <p text-align="justify">
 
@@ -8,7 +8,7 @@
 
 <img align="center" alt="Fernanda-CodeSpace" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif"/>
 
-## #Tecnologias:
+## Tecnologias:
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Fernanda-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -16,7 +16,7 @@
 <img align="center" alt="Fernanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-## #Progresso:
+## Progresso:
 
 <div>
 <a href="https://github.com/mfbyrodrigues">
@@ -24,13 +24,13 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfbyrodrigues&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-## # Contato:
+## Contato:
 
 <div>
 <a [href="n.nandcchi@gmail.com](mailto:href=%22n.nandcchi@gmail.com)"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-# #
+##
 
 <picture align="center">
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mfbyrodrigues/mfbyrodrigues/output/github-contribution-grid-snake-dark.svg">
