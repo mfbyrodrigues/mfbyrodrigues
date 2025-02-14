@@ -1,7 +1,7 @@
 ## Olá, me chamo Fernanda. O prazer é todo meu!
 
 <a href="https://github.com/mfbyrodrigues">  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mfbyrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mfbyrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 ##
 
