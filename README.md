@@ -1,13 +1,5 @@
 ## Olá, me chamo Fernanda. O prazer é todo meu!
 
-<p text-align="justify">
-
-...
-
-</p>
-
-<img align="center" alt="Fernanda-CodeSpace" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif"/>
-
 ## Tecnologias:
 
 <div style="display: inline_block"><br>
